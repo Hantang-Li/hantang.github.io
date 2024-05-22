@@ -1,11 +1,16 @@
 ---
 permalink: /
-title: "🐇Welcome to my home page!🐇"
+title: "Welcome to my home page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+![](IMG_4719_2.PNG)
+Me play computer when I was 3 years old🐇🐇🐇
+
 
 # About me:
 
