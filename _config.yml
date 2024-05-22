@@ -24,11 +24,13 @@ author:
   avatar           : "profile_hantang.png"
   name             : "Hantang Li (李汉唐)"
   pronouns         : # example: "she/her"  
-  bio              : "I completed my master's degree at the University of Toronto, specializing in product image generation and MLOps. My research interests lie in utilizing deep learning algorithms to drive customer-centric solutions. My expertise encompasses computer vision, data analysis, and MLOps, backed by a strong background in software engineering and cloud services."
+  bio              : "CS Master Student at UofT | Generative AI | Computer Vision | Data Science"
+# I completed my master's degree at the University of Toronto, where I worked with Prof. Raquel Urtasun. I am interested in computer vision, machine learning, and robotics. I am currently working as a research scientist at the University of Toronto.
+# specializing in product image generation and MLOps. My research interests lie in utilizing deep learning algorithms to drive customer-centric solutions. My expertise encompasses computer vision, data analysis, and MLOps, backed by a strong background in software engineering and cloud services.
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : "hantang.me" # URL
-  email            : "none@example.org" 
+  email            : "hantang.li[at]mail.utoronto.ca" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
@@ -43,8 +45,8 @@ author:
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
   # dribbble         : # Username
-  github           : "https://github.com/Hantang-Li"
-  kaggle           : "https://www.kaggle.com/hantangli" # Username  
+  github           : "Hantang-Li"
+  kaggle           : "hantangli" # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -59,13 +61,13 @@ author:
   # lastfm           : # Username
   # linkedin         : # Username
   # mastodon         : # URL
-  medium           : # URL
+  # medium           : # URL
   # pinterest        : # Username
   # soundcloud       : # Username
   # steam            : # Username
   # telegram         : # URL
   # tumblr           : # Username
-  twitter          : "https://twitter.com/HantangLi1" # Username for X / Twitter
+  twitter          : "HantangLi1" # Username for X / Twitter
   # vine             : # Username
   # weibo            : # Username
   # wikipedia        : # Username
