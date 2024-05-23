@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 
-![](IMG_4719_2.PNG)
-Me play computer when I was 3 years old🐇🐇🐇
+![Me play computer when I was 3 years old🐇🐇🐇](/images/IMG_4719_2.png){: .align-right width="300px"}
 
 
 # About me:
