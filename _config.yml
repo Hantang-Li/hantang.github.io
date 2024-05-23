@@ -27,7 +27,7 @@ author:
   bio              : "CS Master Student at UofT | Generative AI | Computer Vision | Data Science"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
-  uri              : "https://hantang.me" # URL
+  # uri              : "https://hantang.me" # URL
   email            : "hantang.li[at]mail.utoronto.ca" 
 
   # Academic websites
