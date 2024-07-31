@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Me playing on the computer when I was 3 years old! 🐇🐇🐇](/images/IMG_4719_2.PNG)
+![Me playing on the computer when I was 3 years old! 🐇🐇🐇](/images/IMG_4719_3.png)
 
 <!-- {: .align-right width="300px"} -->
 
